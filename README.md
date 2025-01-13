@@ -1,5 +1,5 @@
 # PRODIGY_CS_03
-This is the third task in the internship program
+Password complexity checker
 
 Task3: "Password Complexity Checker"
 
